@@ -1,0 +1,13 @@
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.exe
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.deps.json
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.runtimeconfig.json
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.runtimeconfig.dev.json
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.dll
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\bin\Debug\netcoreapp3.1\Assignment1_4.pdb
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.AssemblyInfoInputs.cache
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.AssemblyInfo.cs
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.csproj.CoreCompileInputs.cache
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.dll
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.pdb
+C:\Users\BAKERY\source\C SHARP ASSIGNMENTS\Assignment1_4\Assignment1_4\obj\Debug\netcoreapp3.1\Assignment1_4.genruntimeconfig.cache
